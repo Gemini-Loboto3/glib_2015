@@ -1,0 +1,13 @@
+//
+// glib.RC2 - risorse non modificate direttamente da Microsoft Visual C++
+//
+
+#ifdef APSTUDIO_INVOKED
+#error file non modificabile mediante Microsoft Visual C++
+#endif //APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Aggiungere manualmente le risorse modificate...
+
+/////////////////////////////////////////////////////////////////////////////
